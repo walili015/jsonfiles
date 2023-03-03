@@ -6,7 +6,7 @@
     "applovinBanner": "a27ed243ec4aa3bc",
     "applovinInterstitial": "7528a92a3ad88a63",
     "unityGameId": "",
-    "testMode": true,
+    "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android"
   }
